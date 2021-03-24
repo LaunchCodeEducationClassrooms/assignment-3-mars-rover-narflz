@@ -19,4 +19,4 @@ describe("Command class", function() {
     expect(command.value).toEqual(20);
   });
 
-});
+}); 
